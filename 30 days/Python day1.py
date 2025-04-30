@@ -1,0 +1,7 @@
+#print("Hello, world!")
+#print("my name is Pooja Sri")
+#print("3*2")
+#print("The answer is", 10 * 2)
+#print(5 + 10)
+#print(3*2)
+print("10" + "5")
